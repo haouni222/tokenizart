@@ -1,6 +1,6 @@
 {
-  "name": "Legumineuse 42 NFT #1",
+  "name": "Legumineuse 42 NFT",
   "artist" : "Une IA pour Haouni",
   "description": "Mon premier NFT de test sur BSC Testnet",
-  "image": "https://github.com/haouni222/tokenizart/blob/master/images/HowDareYou.png"
+  "image": "https://raw.githubusercontent.com/haouni222/tokenizart/master/images/HowDareYou.png"
 }

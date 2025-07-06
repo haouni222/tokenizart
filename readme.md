@@ -12,6 +12,6 @@ Pourquoi BnB Chain comme blockchain ?
 
 Simplement car c'est la premiere dont j'ai entendu parler me proposant via ses tokens "Testnet" de pouvoir faire des tests avec des reponses rapides et gratuites.
 
-Pourquoi BsCScan ?
+Pourquoi BsCScan testnet?
 
-Simple d'utilisation, tracage via de multiple choix, deja lié a Metamask qui peut nous rediriger directement vers les blocs etc. Adaptée a ce qu'on fait BIEN QUE Parfois les outils eux même ne font pas bien la difference entre ERC721 et BEP721 (Une doc expliquait que Metamask link parfois vers etherScan en lisant du ERC alors que la norme est bien sous BEP + Utilisation de BTestnet probleme sans conscequence uniquement liens mauvais)
+Simple d'utilisation, fait pour la blockhain que j'utilise, tracage via de multiple choix, deja lié a Metamask qui peut nous rediriger directement vers les blocs etc. Adaptée a ce qu'on fait BIEN QUE Parfois les outils eux même ne font pas bien la difference entre ERC721 et BEP721 (Une doc expliquait que Metamask link parfois vers etherScan en lisant du ERC alors que la norme est bien sous BEP + Utilisation de BTestnet probleme sans conscequence uniquement liens mauvais) 

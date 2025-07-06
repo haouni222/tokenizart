@@ -32,7 +32,6 @@ contract legumineuse42NFT is ERC721URIStorage, AccessControl, Ownable
         _setTokenURI(uint256(_tokenIds), tokenURI);
     }
     
-    // Required by Solidity for multiple inheritance
     function supportsInterface(bytes4 interfaceId)
         public
         view
